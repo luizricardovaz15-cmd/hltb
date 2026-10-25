@@ -1,0 +1,13 @@
+{
+  "name": "hltb-twitch-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HowLongToBeat API for StreamElements",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "howlongtobeat": "1.8.0"
+  }
+}
